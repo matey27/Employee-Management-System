@@ -1,0 +1,17 @@
+# Compiled Java files
+*.class
+
+# Log files
+*.log
+HR_Report.txt
+
+# Binary files (We don't upload the JAR to the repo itself)
+*.jar
+lib/
+
+# IDE Settings
+.vscode/
+.settings/
+.project
+.classpath
+bin/
